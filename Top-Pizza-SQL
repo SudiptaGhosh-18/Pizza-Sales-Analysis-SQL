@@ -1,0 +1,5 @@
+select p_name,sum(total_price) as top_sales
+from p_shop
+group by p_name
+order by top_sales desc
+limit 5;
