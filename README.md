@@ -4,10 +4,12 @@
 3. high to low amount group by pizza name.
 4. top 5 pizza name.
 
-# Tech and stack
+# Tech Stack
 PostgreSQL
 
 # Files of Repository
 'Top-Pizza_SQL':all queries of SQL.
 'Pizza-Sales-Analysis-SQL':all files about pizza.
 'README.md':overview or summery of 'Top-Pizza_SQL' queries.
+
+#SQL #DataAnalysis #Github #Portfolio #DataAnalytics #SQLProject #RestaurentAnalysis #CareerGrowth #DataScience #Fresher
